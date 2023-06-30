@@ -1,5 +1,5 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/6H2sAzcR)
-Hello I'm Iréng Febrian Sanjaya. I'm entering week 3 on Revou and this is my weekly assignment a little bit added material such as animation and transition, font family, dark mode, image carousel, and some never seen before photo of The Eras Tour.
+Hello I'm Iréng Febrian Sanjaya. I'm entering week 3 on Revou and this is my weekly assignment a little bit added material such as animation and transition, font family, dark mode, greyscale, image carousel, and some never seen before photo of The Eras Tour.
 
 
 ## Structure
@@ -41,9 +41,12 @@ Deployment
 ***
 
 This project is uploaded to github and deployed it on Netlify. Here's the link below:
-()
+(irengfebrianweek3.netlify.app)
 
 This project is far from perfect, and I need your feedback about this website to be better on the next project.
-P.s: this is the first time I'm making hamburger section with alot of trial and error 
+P.s: This week 3 I failed in alot of way, for example my image carousel dan failed dark mode switcher. I'm gonna fix it later!
+
+Instagram: @Febriaan22
+Phone: 0821-3611-1204
 
 Thank You!
